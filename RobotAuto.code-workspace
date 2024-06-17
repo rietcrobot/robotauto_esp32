@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../RobotAuto"
+		},
+		{
+			"name": "robotauto_esp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
